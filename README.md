@@ -52,8 +52,8 @@ New bet will be added at the top of list of current bets | New bet created | Bet
 
 ## Setup/Installation Requirements
 
-* View at https://
-* Clone from https://github.com/GraceInGravity/bet-loser-project.git
+* View at https://tracyre.github.io/bet-loser-project/
+* Clone from https://github.com/tracyre/bet-loser-project.git
 * Open in browser of your choice
 * Edit files as desired
 
